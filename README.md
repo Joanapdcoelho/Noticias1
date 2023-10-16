@@ -8,3 +8,5 @@ seguintes *tecnologias*:
 • XML e XSLT
 
 • HTML e CSS
+
+O objetivo foi desenvolver uma página “alimentada” por um ficheiro de XML externo (RSS), neste caso usei o da página de notícias [notícias ao minuto]([URL do link](https://www.noticiasaominuto.com/rss)).
