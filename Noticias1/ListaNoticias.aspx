@@ -4,6 +4,8 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <title>Notícias Xml Online</title>
     <!-- Bootstrap -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous" />
@@ -30,7 +32,7 @@
             <div class="p-5 text-center bg-body-secondary rounded-3">
                 <h1 class="text-body-emphasis">Notícias ao minuto</h1>
                 <p class="lead">
-                    jornal online, atualizável a qualquer hora, acessível na Internet através do endereço www.noticiasaominuto.com, que disponibiliza informação geral independente e pluralista. Notícias ao Minuto é uma publicação independente, sem qualquer dependência de natureza política, ideológica e económica.
+                    Jornal online, atualizável a qualquer hora, acessível na Internet através do endereço www.noticiasaominuto.com, que disponibiliza informação geral independente e pluralista. Notícias ao Minuto é uma publicação independente, sem qualquer dependência de natureza política, ideológica e económica.
                 </p>
             </div>
         </div>
